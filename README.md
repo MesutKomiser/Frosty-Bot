@@ -1,0 +1,2 @@
+# Frosty-Bot
+discord serwer
